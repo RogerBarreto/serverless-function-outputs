@@ -12,5 +12,10 @@
   "dependencies": {
     "bluebird": "^3.5.3",
     "lodash": "^4.13.1"
-  }
+  },
+  "description": "Serverless Parameters --------------------- This plugin adds the possibility to add [CloudFormation function Raw Arn/Name outputs]",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rogerio Barreto"
 }
