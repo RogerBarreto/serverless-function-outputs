@@ -1,0 +1,16 @@
+{
+  "name": "serverless-function-outputs",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "license": "MIT",
+  "repository": {
+    "git": "https://github.com/rogerbarreto/serverless-function-outputs"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "lodash": "^4.13.1"
+  }
+}
